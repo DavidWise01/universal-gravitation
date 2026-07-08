@@ -4,6 +4,6 @@ slug  : universal-gravitation
 seal  : e3e846522b9514739df006979448bf8426be122dde89ed11ca9a1cdc8e3b7441
 prev  : 136677d006ad7f39eb8a879b7c30d01130c8920e372af2ec155d946eb5700051
 link  : 6cca66a0eceea7702b32e89a36fa73cf937f6a72fa732627ea0e605af38baf2a
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
