@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 558
 slug  : universal-gravitation
-seal  : e3e846522b9514739df006979448bf8426be122dde89ed11ca9a1cdc8e3b7441
-prev  : 136677d006ad7f39eb8a879b7c30d01130c8920e372af2ec155d946eb5700051
-link  : 6cca66a0eceea7702b32e89a36fa73cf937f6a72fa732627ea0e605af38baf2a
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : 1c0e1ef1f0bc29d1e20c4cb889eb2a801e3fb3c70e81f13045b0ecf4fb6adfb2
+prev  : bd3cd461743b8b23fb178949748d3f0c77a02b0c0f72fc7cf5eb5de5daed059d
+link  : afc617ebfc1f1e7449ea47f454f9dbaefd01c5f84eb622b7fdb7c0d7fcd13902
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
